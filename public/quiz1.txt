@@ -1,0 +1,20 @@
+Selon la Communication NonViolente (CNV) telle que décrite dans le livre, quelle est l'hypothèse fondamentale concernant les actions humaines ?
+"A. Les humains agissent principalement pour satisfaire leurs besoins."
+*"B. Les humains sont fondamentalement égoïstes et violents par nature."
+"C. Les actions humaines sont dictées par la recherche de récompenses et l'évitement des punitions."
+"D. Les humains cherchent avant tout à avoir le dessus dans les conflits."
+"La CNV postule que toutes nos actions, même celles qui semblent négatives, sont des tentatives pour répondre à des besoins universels."
+
+Quelle est la première étape du processus CNV ?
+"A. Exprimer ses sentiments"
+*"B. Observer sans évaluer"
+"C. Formuler une demande"
+"D. Identifier ses besoins"
+"L'observation neutre, sans jugement ni évaluation, est la première étape cruciale pour établir une connexion bienveillante."`,
+  
+Quelle est la capitale de la France ?
+"A. Lyon"
+"B. Marseille"
+*"C. Paris"
+"D. Bordeaux"
+"Paris est la capitale politique de la France."
