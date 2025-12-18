@@ -17,6 +17,7 @@ Quelle est la principale erreur qu'un chef de produit commet lorsqu'il adopte l'
 *"B. Il mesure son succès par la quantité de travail et le nombre de produits qu'il gère."
 "C. Il préférerait coder plutôt que de participer à des réunions de stratégie."
 "D. Il essaie d'imiter des visionnaires comme Steve Jobs sans comprendre le contexte."
+"Le 'Product Martyr' a tendance à mesurer son succès par son niveau d'effort et de surcharge, souvent en l'absence d'objectifs organisationnels clairs."
 
 Quelle technique le livre recommande-t-il pour s'assurer que des décisions claires sont prises en réunion et pour encourager le partage d'opinions dissidentes ?
 "A. L'escalade vers la direction"
