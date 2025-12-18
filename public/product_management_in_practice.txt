@@ -1,0 +1,68 @@
+Selon le livre, quelle est l'une des réalités du travail quotidien d'un chef de produit, contrairement à la théorie ?
+"A. Éviter les compromis pour maintenir la vision pure du produit."
+"B. Avoir une autorité directe sur les équipes de conception et de développement."
+"C. Se concentrer uniquement sur la création de nouvelles fonctionnalités visionnaires."
+*"D. Lutter pour des améliorations progressives et avoir des conversations difficiles."
+"La pratique de la gestion de produit implique souvent des compromis pratiques, des conversations difficiles et des gains incrémentiels durement acquis."
+
+L'acronyme CORE décrit les compétences de connexion clés en gestion de produit. Que représente le 'R' ?
+*"A. Research (Recherche)"
+"B. Roadmapping (Planification)"
+"C. Reporting (Rapports)"
+"D. Responsibility (Responsabilité)"
+"Cette compétence fondamentale consiste à rechercher activement toute information qui pourrait aider l'équipe à réussir, en se basant sur le principe de 'vivre dans la réalité de l'utilisateur'."
+
+Quelle est la principale erreur qu'un chef de produit commet lorsqu'il adopte l'archétype du 'Product Martyr' ?
+"A. Il se concentre trop sur la vision à long terme et ignore les détails."
+*"B. Il mesure son succès par la quantité de travail et le nombre de produits qu'il gère."
+"C. Il préférerait coder plutôt que de participer à des réunions de stratégie."
+"D. Il essaie d'imiter des visionnaires comme Steve Jobs sans comprendre le contexte."
+
+Quelle technique le livre recommande-t-il pour s'assurer que des décisions claires sont prises en réunion et pour encourager le partage d'opinions dissidentes ?
+"A. L'escalade vers la direction"
+"B. La recherche du consensus"
+*"C. Le 'Disagree and commit' (Être en désaccord et s'engager)"
+"D. Le vote à la majorité"
+"Cette technique formalise l'idée que le but n'est pas que tout le monde soit d'accord, mais que tout le monde s'engage à soutenir la décision finale, ce qui incite à exprimer les désaccords au préalable."
+
+Pourquoi est-il crucial pour un chef de produit de ne jamais surprendre un dirigeant avec une nouvelle idée majeure lors d'une réunion importante ?
+"A. Parce que les dirigeants n'aiment pas les idées qui ne viennent pas d'eux."
+*"B. Pour maintenir un sentiment de contrôle et de prévisibilité au sein de la direction."
+"C. Car cela pourrait entraîner l'annulation immédiate de la réunion."
+"D. Pour éviter de paraître trop créatif et de sortir du cadre de son rôle."
+"Les dirigeants ont besoin de se sentir informés et investis. Une surprise peut être perçue comme une perte de contrôle ou un manque de respect pour le processus décisionnel."
+
+Lorsqu'on discute avec les utilisateurs, pourquoi est-il conseillé de poser des questions sur des cas spécifiques plutôt que sur des généralisations ?
+*"A. Pour aider les gens à se souvenir de leurs expériences plus honnêtement, sans le filtre des jugements de valeur."
+"B. Pour valider une fonctionnalité que l'on a déjà en tête."
+"C. Pour obtenir des réponses plus rapides et concises."
+"D. Pour que les utilisateurs se sentent plus intelligents et experts."
+"Les gens peuvent décrire une expérience passée avec plus de franchise et de détails qu'en essayant de synthétiser leurs goûts ou préférences générales."
+
+Quel est le danger d'utiliser des 'mesures de vanité' (vanity metrics) pour évaluer le succès d'un produit ?
+"A. Elles ne peuvent être mesurées qu'avec des outils de données coûteux."
+*"B. Elles peuvent donner l'impression que vous réussissez sans être liées aux véritables objectifs de l'entreprise."
+"C. Elles sont souvent trop complexes à calculer pour l'équipe."
+"D. Elles se concentrent exclusivement sur les commentaires qualitatifs des utilisateurs."
+"Une mesure de vanité est une mesure qui semble bonne en surface mais qui n'est pas corrélée aux facteurs de succès réels, comme l'engagement ou les revenus."
+
+Comment le livre suggère-t-il de gérer les 'demandes d'urgence' de nouvelles fonctionnalités pour éviter le chaos ?
+"A. En demandant à l'équipe de développement de décider si la demande est réalisable."
+*"B. En créant un processus ou un modèle officiel pour évaluer l'impact réel de la demande."
+"C. En refusant systématiquement toute demande qui n'est pas dans la roadmap."
+"D. En acceptant toutes les demandes des cadres supérieurs pour maintenir de bonnes relations."
+"Un modèle force le demandeur à réfléchir à l'impact (utilisateurs affectés, revenus, etc.), ce qui aide à filtrer les vraies urgences et à dépersonnaliser la décision."
+
+Quel est le principal objectif d'une feuille de route (roadmap) de produit, tel que décrit dans le livre ?
+"A. Être une liste de toutes les idées de fonctionnalités possibles pour le futur."
+"B. Être un plan d'exécution strict et une promesse ferme de ce qui sera livré et quand."
+"C. Être un document privé que seul le chef de produit utilise pour guider son travail."
+*"D. Être un document de communication stratégique pour aligner l'organisation."
+"Son rôle principal est de communiquer la direction et la stratégie, et de servir de base à la discussion, plutôt que d'être un plan d'exécution rigide."
+
+Quelle est l'approche la plus efficace pour un chef de produit face à un cadre supérieur qui critique une maquette en disant 'Ça ne ressemble pas à ce que j'ai validé !' ?
+"A. Prouver avec des documents que le cadre a bien validé la version précédente."
+"B. Expliquer que les changements sont purement cosmétiques et sans importance."
+*"C. S'excuser pour la surprise et demander comment mieux l'inclure dans le processus à l'avenir."
+"D. Changer immédiatement les couleurs selon les préférences du cadre pour le satisfaire."
+"Cela aborde le problème fondamental de la communication et de l'implication, transformant une critique en une opportunité d'améliorer le processus."
