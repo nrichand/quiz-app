@@ -1,5 +1,6 @@
 {
   "name": "quiz-app",
+  "homepage": "https://nrichand.github.io/quiz-app",
   "private": true,
   "version": "0.0.0",
   "type": "module",

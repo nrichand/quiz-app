@@ -42,7 +42,7 @@ export default function QuizApp() {
       let textData = '';
       
       try {
-        const response = await fetch(`/${quizId}.txt`);
+        const response = await fetch(`${quizId}.txt`);
         if (response.ok) {
           textData = await response.text();
         } else {
